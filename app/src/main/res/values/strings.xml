@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinateBehavier</string>
+
+    <string name="test_behavier_name">com.coordinate.behavier.behavier.TestBehavier</string>
+</resources>
